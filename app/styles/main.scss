@@ -1,0 +1,15 @@
+$light-gray: #383838;
+
+html{
+	font-size: 16px;
+	font-family: Georgia, serif, cursive;
+	background-color: $light-gray;
+	color: white;
+	padding: 1em;
+	text-align: center;
+}
+
+p{
+	color: red;
+	text-shadow: 1px 1px 1px black;
+}
